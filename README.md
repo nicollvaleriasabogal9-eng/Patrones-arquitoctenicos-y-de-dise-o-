@@ -1,5 +1,5 @@
 # Patrones Arquitectónicos y de Diseño de Software
-
+#NICOLL SABOGAL NARVAEZ - MARIANA SOFIA SALAZAR
 
 ---
 
